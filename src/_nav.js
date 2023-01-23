@@ -28,6 +28,10 @@ const _nav = [
   },
   {
     component: CNavTitle,
+    name: 'Test',
+  },
+  {
+    component: CNavTitle,
     name: 'Theme',
   },
   {
